@@ -4,13 +4,13 @@
 
     pip3 install -r requirements.txt
     export FLASK_APP=api.py
-    python3 api.py
+    flask run
 
 ## How to run (Windows)
 
     pip3 install -r requirements.txt
     set FLASK_APP=hello.py
-    python3 api.py
+    flask run
 
 ## How it works
 
