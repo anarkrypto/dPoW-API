@@ -9,7 +9,7 @@
 ## How to run (Windows)
 
     pip3 install -r requirements.txt
-    set FLASK_APP=hello.py
+    set FLASK_APP=api.py
     flask run
 
 ## How it works
